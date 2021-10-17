@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://surya-techgig.github.io/csb-0wzbh/static/css/main.8675c377.chunk.css",
+    "main.js": "https://surya-techgig.github.io/csb-0wzbh/static/js/main.554b4a61.chunk.js",
+    "main.js.map": "https://surya-techgig.github.io/csb-0wzbh/static/js/main.554b4a61.chunk.js.map",
+    "runtime-main.js": "https://surya-techgig.github.io/csb-0wzbh/static/js/runtime-main.81eed8b4.js",
+    "runtime-main.js.map": "https://surya-techgig.github.io/csb-0wzbh/static/js/runtime-main.81eed8b4.js.map",
+    "static/js/2.903aff9e.chunk.js": "https://surya-techgig.github.io/csb-0wzbh/static/js/2.903aff9e.chunk.js",
+    "static/js/2.903aff9e.chunk.js.map": "https://surya-techgig.github.io/csb-0wzbh/static/js/2.903aff9e.chunk.js.map",
+    "index.html": "https://surya-techgig.github.io/csb-0wzbh/index.html",
+    "static/css/main.8675c377.chunk.css.map": "https://surya-techgig.github.io/csb-0wzbh/static/css/main.8675c377.chunk.css.map",
+    "static/js/2.903aff9e.chunk.js.LICENSE.txt": "https://surya-techgig.github.io/csb-0wzbh/static/js/2.903aff9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81eed8b4.js",
+    "static/js/2.903aff9e.chunk.js",
+    "static/css/main.8675c377.chunk.css",
+    "static/js/main.554b4a61.chunk.js"
+  ]
+}
